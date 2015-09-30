@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易小傳
-#+DATE: 2015-09-23 09:34:18
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:54:07.350142
+#+PROPERTY: ID KR1a0023
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五上
 <pb:KR1a0023_WYG_005-1a>¶
 欽定四庫全書¶
 　易小傳卷五上　　　　　　宋　沈該　撰¶
@@ -686,6 +688,7 @@
 　　改國可遷而法不可遷井以无私為徳法以至公¶
 　　為常也蓋上坎為法下巽為令亦取象之一端也¶
 　易小傳卷五上¶
+#+PROPERTY: JUAN 卷五下
 <pb:KR1a0023_WYG_005-39a>¶
 欽定四庫全書¶
 　易小傳卷五下　　　　　　宋　沈該　撰¶
@@ -1352,4 +1355,3 @@
 　¶
 　¶
 　易小傳卷五下¶
-

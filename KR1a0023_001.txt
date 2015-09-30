@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易小傳
-#+DATE: 2015-09-23 09:34:18
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:54:07.236568
+#+PROPERTY: ID KR1a0023
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一上
 <pb:KR1a0023_WYG_001-1a>¶
 欽定四庫全書¶
 　易小傳卷一上　　　　　宋　沈該　&KR0103;¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　易小傳卷一上¶
+#+PROPERTY: JUAN 卷一下
 <pb:KR1a0023_WYG_001-29a>¶
 欽定四庫全書¶
 　易小傳卷一下　　　　　　宋　沈該　&KR0103;¶
@@ -1082,4 +1085,3 @@
 　　不違過之而不守未嘗處也故雜卦曰履不處也¶
 　¶
 　易小傳卷一下¶
-
